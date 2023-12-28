@@ -22,14 +22,14 @@ const Navbar2 = () => {
           color={"gray"}
           _hover={{ color: "Red" }}
         >
-          Actions
+          WINTERWEAR 23
         </MenuButton>
         <MenuList>
-          <MenuItem>Download</MenuItem>
-          <MenuItem>Create a Copy</MenuItem>
-          <MenuItem>Mark as Draft</MenuItem>
-          <MenuItem>Delete</MenuItem>
-          <MenuItem>Attend a Workshop</MenuItem>
+          <MenuItem>All Winterwears</MenuItem>
+          <MenuItem>Hoodies</MenuItem>
+          <MenuItem>Jackets</MenuItem>
+          <MenuItem>OverSized Full Sleves</MenuItem>
+          <MenuItem>Full-Sleves Shirts</MenuItem>
         </MenuList>
       </Menu>
       <Menu>
@@ -40,14 +40,14 @@ const Navbar2 = () => {
           color={"gray"}
           _hover={{ color: "Red" }}
         >
-          Actions
+          TOPWEAR
         </MenuButton>
         <MenuList>
-          <MenuItem>Download</MenuItem>
-          <MenuItem>Create a Copy</MenuItem>
-          <MenuItem>Mark as Draft</MenuItem>
-          <MenuItem>Delete</MenuItem>
-          <MenuItem>Attend a Workshop</MenuItem>
+          <MenuItem>All Winterwears</MenuItem>
+          <MenuItem>Hoodies</MenuItem>
+          <MenuItem>Jackets</MenuItem>
+          <MenuItem>OverSized Full Sleves</MenuItem>
+          <MenuItem>Full-Sleves Shirts</MenuItem>
         </MenuList>
       </Menu>
       <Menu>
@@ -58,14 +58,14 @@ const Navbar2 = () => {
           color={"gray"}
           _hover={{ color: "Red" }}
         >
-          Actions
+          BOTTOMWEAR
         </MenuButton>
         <MenuList>
-          <MenuItem>Download</MenuItem>
-          <MenuItem>Create a Copy</MenuItem>
-          <MenuItem>Mark as Draft</MenuItem>
-          <MenuItem>Delete</MenuItem>
-          <MenuItem>Attend a Workshop</MenuItem>
+          <MenuItem>All Winterwears</MenuItem>
+          <MenuItem>Hoodies</MenuItem>
+          <MenuItem>Jackets</MenuItem>
+          <MenuItem>OverSized Full Sleves</MenuItem>
+          <MenuItem>Full-Sleves Shirts</MenuItem>
         </MenuList>
       </Menu>
       <Menu>
@@ -76,14 +76,14 @@ const Navbar2 = () => {
           color={"gray"}
           _hover={{ color: "Red" }}
         >
-          Actions
+          SNEAKERS
         </MenuButton>
         <MenuList>
-          <MenuItem>Download</MenuItem>
-          <MenuItem>Create a Copy</MenuItem>
-          <MenuItem>Mark as Draft</MenuItem>
-          <MenuItem>Delete</MenuItem>
-          <MenuItem>Attend a Workshop</MenuItem>
+          <MenuItem>All Winterwears</MenuItem>
+          <MenuItem>Hoodies</MenuItem>
+          <MenuItem>Jackets</MenuItem>
+          <MenuItem>OverSized Full Sleves</MenuItem>
+          <MenuItem>Full-Sleves Shirts</MenuItem>
         </MenuList>
       </Menu>
     </Flex>
